@@ -1,0 +1,25 @@
+.card-item {
+  width: 100%;
+  max-width: 18rem;
+  margin: 0 auto;
+}
+
+.card-item img {
+  height: 200px;
+  object-fit: cover;
+}
+
+@media (max-width: 575.98px) {
+  .card-item {
+    max-width: 100%;
+  }
+
+  .card-item img {
+    height: auto;
+  }
+
+  .card-item .btn {
+    width: 48%;
+    font-size: 0.875rem;
+  }
+}

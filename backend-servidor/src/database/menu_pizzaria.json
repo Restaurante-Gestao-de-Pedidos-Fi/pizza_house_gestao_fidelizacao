@@ -1,0 +1,142 @@
+[
+  {
+    "nome": "Coca-Cola-Zero",
+    "descricao": "Refrigerante sem açúcar",
+    "preco": 10,
+    "categoria": "bebida",
+    "imagem": "coca-zero.jpg"
+  },
+  {
+    "nome": "Suco-de-Laranja-Natural",
+    "descricao": "Suco natural de laranja, sem conservantes",
+    "preco": 8,
+    "categoria": "bebida",
+    "imagem": "suco-laranja.jpg"
+  },
+  {
+    "nome": "Água-com-Gás",
+    "descricao": "Água mineral gaseificada",
+    "preco": 5,
+    "categoria": "bebida",
+    "imagem": "agua-gas.jpg"
+  },
+  {
+    "nome": "Pizza-Margherita",
+    "descricao": "Molho de tomate, mussarela e manjericão",
+    "preco": 35,
+    "categoria": "pizza",
+    "imagem": "pizza-margherita.jpg"
+  },
+  {
+    "nome": "Pizza-Calabresa",
+    "descricao": "Calabresa fatiada, cebola e mussarela",
+    "preco": 38,
+    "categoria": "pizza",
+    "imagem": "pizza-calabresa.jpg"
+  },
+  {
+    "nome": "Pizza-Quatro Queijos",
+    "descricao": "Mussarela, gorgonzola, parmesão e catupiry",
+    "preco": 42,
+    "categoria": "pizza",
+    "imagem": "pizza-quatro-queijos.jpg"
+  },
+  {
+    "nome": "Pizza-Portuguesa",
+    "descricao": "Presunto, ovo, cebola, azeitona, pimentão e mussarela",
+    "preco": 40,
+    "categoria": "pizza",
+    "imagem": "pizza-portuguesa.jpg"
+  },
+  {
+    "nome": "Pizza-Frango-com-Catupiry",
+    "descricao": "Frango desfiado com catupiry e mussarela",
+    "preco": 41,
+    "categoria": "pizza",
+    "imagem": "pizza-frango-catupiry.jpg"
+  },
+  {
+    "nome": "Guaraná-Antarctica",
+    "descricao": "Refrigerante sabor guaraná",
+    "preco": 9,
+    "categoria": "bebida",
+    "imagem": "guarana.jpg"
+  },
+  {
+    "nome": "Cerveja-Heineken-Long-Neck",
+    "descricao": "Cerveja puro malte 330ml",
+    "preco": 12,
+    "categoria": "bebida",
+    "imagem": "heineken.jpg"
+  },
+  {
+    "nome": "Pizza-Pepperoni",
+    "descricao": "Molho de tomate, mussarela e fatias de pepperoni",
+    "preco": 43,
+    "categoria": "pizza",
+    "imagem": "pizza-pepperoni.jpg"
+  },
+  {
+    "nome": "Pizza-Vegetariana",
+    "descricao": "Pimentão, cebola, azeitona, milho e mussarela",
+    "preco": 37,
+    "categoria": "pizza",
+    "imagem": "pizza-vegetariana.jpg"
+  },
+  {
+    "nome": "Pizza-de-Bacon",
+    "descricao": "Bacon crocante com mussarela e orégano",
+    "preco": 44,
+    "categoria": "pizza",
+    "imagem": "pizza-bacon.jpg"
+  },
+  {
+    "nome": "Pizza-de-Chocolate",
+    "descricao": "Coberta com creme de chocolate e confeitos",
+    "preco": 36,
+    "categoria": "pizza",
+    "imagem": "pizza-chocolate.jpg"
+  },
+  {
+    "nome": "Pizza-Romeu-e-Julieta",
+    "descricao": "Mussarela com goiabada derretida",
+    "preco": 35,
+    "categoria": "pizza",
+    "imagem": "pizza-romeu-julieta.jpg"
+  },
+  {
+    "nome": "Suco-de-Uva-Integral",
+    "descricao": "Suco 100% uva, sem açúcar e conservantes",
+    "preco": 9,
+    "categoria": "bebida",
+    "imagem": "suco-uva.jpg"
+  },
+  {
+    "nome": "Refrigerante-Pepsi",
+    "descricao": "Refrigerante tradicional sabor cola",
+    "preco": 9,
+    "categoria": "bebida",
+    "imagem": "pepsi.jpg"
+  },
+  {
+    "nome": "Água-sem-Gás",
+    "descricao": "Água mineral natural sem gás",
+    "preco": 4,
+    "categoria": "bebida",
+    "imagem": "agua.jpg"
+  },
+  {
+    "nome": "Chá-Gelado-de-Pêssego",
+    "descricao": "Chá gelado sabor pêssego, levemente adoçado",
+    "preco": 7,
+    "categoria": "bebida",
+    "imagem": "cha-pessego.jpg"
+  },
+  {
+    "nome": "Energético-Red-Bull",
+    "descricao": "Bebida energética, lata 250ml",
+    "preco": 14,
+    "categoria": "bebida",
+    "imagem": "redbull.jpg"
+  }
+]

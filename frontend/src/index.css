@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "ChunkFive Print";
+  src: url("./fonts/chunkfive.print.ttf") format("truetype");
+  /* Você pode adicionar mais formatações, como bold, italic, etc. */
+}

@@ -1,0 +1,117 @@
+body,
+html,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.tables-container {
+  width: 100%;
+  min-height: 100vh;
+  padding: 0;
+  background-color: #f9fafb;
+  box-sizing: border-box;
+}
+
+.tables-header {
+  display: centerc;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.back-button {
+  padding: 0.5rem 1rem;
+  background-color: #ff6600;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  /* Quitar ancho completo */
+  width: auto;
+  max-width: 200px;
+}
+
+.back-button:hover {
+  background-color: #e55a00;
+}
+
+.welcome-message {
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 0 0 2rem 0; /* ahora sin margen arriba */
+}
+
+.mesas-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  width: 100%;
+  margin: 0;
+}
+
+.mesa-card {
+  padding: 1rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  min-height: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.clicavel {
+  cursor: pointer;
+}
+
+.clicavel:hover {
+  transform: scale(1.05);
+}
+
+.nao-clicavel {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.ocupada {
+  background-color: #ffe5e5;
+  border: 2px solid #f08080;
+  color: #a94442;
+}
+
+.disponivel {
+  background-color: #e5ffe5;
+  border: 2px solid #90ee90;
+  color: #2e7d32;
+}
+
+.reservada {
+  background-color: #fff8dc;
+  border: 2px solid #f0e68c;
+  color: #b8860b;
+}
+
+.mesa-number {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.mesa-status {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.mesa-value {
+  display: block;
+  margin-top: 0.5rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
