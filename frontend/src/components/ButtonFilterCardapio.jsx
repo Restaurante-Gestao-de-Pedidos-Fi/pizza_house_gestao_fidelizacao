@@ -31,7 +31,7 @@ function ButtonFilterCardapio({ setItens }) {
           <ToggleButton
             key={idx}
             id={`categoria-${idx}`}
-            type="radio "
+            type="radio"
             variant={idx % 2 ? "outline-success" : "outline-danger"}
             name="radio"
             value={categoria.value}
